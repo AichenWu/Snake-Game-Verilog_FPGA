@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'SYS_CLK'
+Slack : -3.725
+TNS   : -166.006
+
+Type  : Slow 1200mV 85C Model Setup 'game_clk'
+Slack : -2.561
+TNS   : -154.427
+
+Type  : Slow 1200mV 85C Model Setup 'led_clk'
+Slack : -0.312
+TNS   : -0.324
+
+Type  : Slow 1200mV 85C Model Hold 'SYS_CLK'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'game_clk'
+Slack : 0.434
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'led_clk'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SYS_CLK'
+Slack : -3.000
+TNS   : -80.324
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'game_clk'
+Slack : -1.487
+TNS   : -153.161
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'led_clk'
+Slack : -1.487
+TNS   : -4.461
+
+Type  : Slow 1200mV 0C Model Setup 'SYS_CLK'
+Slack : -3.446
+TNS   : -151.967
+
+Type  : Slow 1200mV 0C Model Setup 'game_clk'
+Slack : -2.369
+TNS   : -137.468
+
+Type  : Slow 1200mV 0C Model Setup 'led_clk'
+Slack : -0.183
+TNS   : -0.183
+
+Type  : Slow 1200mV 0C Model Hold 'SYS_CLK'
+Slack : 0.102
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'game_clk'
+Slack : 0.383
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'led_clk'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SYS_CLK'
+Slack : -3.000
+TNS   : -80.324
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'game_clk'
+Slack : -1.487
+TNS   : -153.161
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'led_clk'
+Slack : -1.487
+TNS   : -4.461
+
+Type  : Fast 1200mV 0C Model Setup 'SYS_CLK'
+Slack : -0.989
+TNS   : -39.192
+
+Type  : Fast 1200mV 0C Model Setup 'game_clk'
+Slack : -0.566
+TNS   : -19.336
+
+Type  : Fast 1200mV 0C Model Setup 'led_clk'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SYS_CLK'
+Slack : -0.098
+TNS   : -0.190
+
+Type  : Fast 1200mV 0C Model Hold 'game_clk'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'led_clk'
+Slack : 0.186
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SYS_CLK'
+Slack : -3.000
+TNS   : -58.590
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'game_clk'
+Slack : -1.000
+TNS   : -103.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'led_clk'
+Slack : -1.000
+TNS   : -3.000
+
+------------------------------------------------------------

@@ -1,0 +1,5 @@
+
+State Machine - |Snake_2|state
+Name state.10 
+state.01 0 
+state.10 1 

@@ -1,0 +1,19 @@
+-- begin_signature
+-- Snake_2
+-- end_signature
+WIDTH=8;
+DEPTH=8;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	7 :	00000000;
+	6 :	00010000;
+	5 :	00100110;
+	4 :	01000000;
+	3 :	01000000;
+	2 :	00100110;
+	1 :	00010000;
+	0 :	00000000;
+END;
